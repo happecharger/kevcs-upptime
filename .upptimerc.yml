@@ -24,8 +24,6 @@ sites:
     url: https://m.happecharger.com/mobile/main.do
   - name: legacy website
     url: https://cs.happecharger.com
-  - name: slack test
-    url: https://www.navver.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
