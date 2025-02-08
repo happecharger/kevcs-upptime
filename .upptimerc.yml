@@ -9,14 +9,23 @@ assignees:
   - Hyobum Moon
 
 sites:
-  - name: Happecharger Website
+  - name: website
     url: https://www.happecharger.com
-  - name: Happecharger Hybrid Application Site 2
+  - name: application
     url: https://app2.happecharger.com
-  - name: Happecharger Hybrid Application Site 1
-    url: https://app.happecharger.com
-  - name: Legacy Mobile Site
+  - name: cms
+    url: https://cms.happecharger.com
+  - name: evc
+    url: http://adm.kevcs.com
+    port: 28088
+  - name: acc
+    url: https://acc.happecharger.com/
+  - name: legacy mobile
     url: https://m.happecharger.com/mobile/main.do
+  - name: legacy website
+    url: https://cs.happecharger.com
+  - name: slack test
+    url: https://www.navver.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
