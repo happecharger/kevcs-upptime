@@ -50,13 +50,13 @@ i18n:
   incidentDetails: Incident Details
   incidentFixed: Fixed
   incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
+  incidentOpenedAt: 발생일시
+  incidentClosedAt: 종료일시
   incidentViewOnGitHub: View and Subscribe on GitHub
   incidentCommentSummary: Posted at $DATE by $AUTHOR
   incidentBack: ← 전체이슈로 돌아가기
   pastIncidents: 지난 이슈
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  pastIncidentsResolved: 해결 : $POSTS 게시물/$MINUTES 분
   liveStatus: 활성 상태
   overallUptime: "전체가동시간: $UPTIME"
   overallUptimeTitle: 전체가동시간
@@ -71,21 +71,21 @@ i18n:
   loading: Loading
   navGitHub: GitHub
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededTitle: 한도 초과
+  rateLimitExceededIntro: 한 시간에 가용 할 수 있는 요청 수를 초과했으므로 이 웹사이트에 다시 액세스하기 전까지 기다려야 합니다. 또는 GitHub 개인 엑세스 토큰을 추가하여 이 웹사이트를 계속 사용할 수 있습니다.
+  rateLimitExceededWhatDoesErrorMean: 이 오류는 무엇을 의미하나요?
+  rateLimitExceededErrorMeaning: 이 웹사이트는 GitHub API를 사용하여 당사 웹사이트의 상태를 실시간으로 액세스합니다. 기본적으로 GitHub는 각 IP 주소에 시간당 60개의 요청을 허용합니다.
+  rateLimitExceededErrorHowCanFix: 어떻게 고칠 수 있나요?
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
+  rateLimitExceededGeneratePAT: 개인 엑세스 토큰을 생성하는 방법
+  rateLimitExceededHasSet: 개인 엑세스 토큰이 설정되었습니다.
+  rateLimitExceededRemoveToken: 토큰 제거
+  rateLimitExceededGitHubPAT: GitHub 개인 엑세스 토큰
+  rateLimitExceededCopyPastePAT: 토큰을 복사하여 붙여넣으세요.
+  rateLimitExceededSaveToken: 토큰 저장
+  errorTitle: 오류 발생
+  errorIntro: 최신 상태 세부 정보를 가져오는 중 오류가 발생했습니다.
+  errorText: 잠시 후에 다시 시도할 수 있습니다.
   errorHome: 홈
   pastScheduledMaintenance: Past Scheduled Maintenance
   scheduledMaintenance: Scheduled Maintenance
