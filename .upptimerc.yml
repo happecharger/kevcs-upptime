@@ -34,7 +34,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   name: 한국전기차충전서비스
   introTitle: "해피차저 서비스"
-  introMessage: 전체 상태
+  introMessage: 서버 상태
   navbar:
     - title: Status
       href: /
@@ -42,8 +42,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  activeIncidents: Active Incidents
-  allSystemsOperational: All systems are operational
+  activeIncidents: 활성 이슈
+  allSystemsOperational: 전체 시스템이 작동 중 입니다.
   incidentReport: "Incident #$NUMBER report →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
@@ -57,7 +57,7 @@ i18n:
   incidentBack: ← 전체이슈로 돌아가기
   pastIncidents: 지난 이슈
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  liveStatus: 세부 상태
+  liveStatus: 활성 상태
   overallUptime: "전체가동시간: $UPTIME"
   overallUptimeTitle: 전체가동시간
   averageResponseTime: "평균응답시간: $TIMEms"
@@ -86,7 +86,7 @@ i18n:
   errorTitle: An error occurred
   errorIntro: An error occurred in trying to get the latest status details.
   errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
+  errorHome: 홈
   pastScheduledMaintenance: Past Scheduled Maintenance
   scheduledMaintenance: Scheduled Maintenance
   scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
