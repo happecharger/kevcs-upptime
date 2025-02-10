@@ -9,10 +9,6 @@ assignees:
   - Hyobum Moon
 
 sites:
-  - name: ActiveMQ
-    url: http://10.20.59.4:8161/
-    headers:
-      - "Authorization: Basic YWRtaW46YWRtaW4="
   - name: 해피차저 웹사이트
     url: https://www.happecharger.com
   - name: 해피차저 앱
@@ -30,13 +26,17 @@ sites:
   - name: ESOL (API시스템)
     url: https://api2.happecharger.com/appMain.do
   - name: 비회원QR
-    url: http://211.253.17.41:28088/
+    check: "tcp-ping"
+    url: 211.253.17.41
+    port: 28088
   - name: 기존 해피차저 모바일웹
     url: https://m.happecharger.com/
   - name: 기존 해피차저 웹사이트
     url: https://cs.happecharger.com
   - name: 개발 (Jenkins)
-    url: http://211.253.17.45:8085/
+    check: "tcp-ping"
+    url: 211.253.17.45
+    port: 8085
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
