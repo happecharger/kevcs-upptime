@@ -39,7 +39,7 @@ sites:
   - name: 기존 해피차저 웹사이트
     url: https://cs.happecharger.com
   - name: 개발 (Jenkins)
-    url : http://211.253.17.45/
+    url: http://211.253.17.45/
     port: 8085
 
 status-website:
