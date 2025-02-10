@@ -34,7 +34,7 @@
     "timeMonth": 1454,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-02-10": 12,
+      "2025-02-10": 6,
       "2025-02-08": 17
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 1454,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-02-10": 12,
+      "2025-02-10": 6,
       "2025-02-08": 17
     }
   },
@@ -137,19 +137,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/noti.kevcs.co.kr.ico",
     "slug": "assemble",
     "status": "up",
-    "uptime": "32.10%",
-    "uptimeDay": "32.10%",
-    "uptimeWeek": "32.10%",
-    "uptimeMonth": "32.10%",
-    "uptimeYear": "32.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1148,
     "timeDay": 1148,
     "timeWeek": 1148,
     "timeMonth": 1148,
     "timeYear": 1148,
-    "dailyMinutesDown": {
-      "2025-02-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ESOL (API시스템)",
@@ -157,11 +155,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2.happecharger.com.ico",
     "slug": "esol-api",
     "status": "down",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
+    "uptime": "0.88%",
+    "uptimeDay": "0.88%",
+    "uptimeWeek": "0.88%",
+    "uptimeMonth": "0.88%",
+    "uptimeYear": "0.88%",
     "time": 696,
     "timeDay": 696,
     "timeWeek": 696,
@@ -177,19 +175,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/211.253.17.41.ico",
     "slug": "qr",
     "status": "up",
-    "uptime": "21.26%",
-    "uptimeDay": "21.26%",
-    "uptimeWeek": "21.26%",
-    "uptimeMonth": "21.26%",
-    "uptimeYear": "21.26%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 368,
     "timeWeek": 368,
     "timeMonth": 368,
     "timeYear": 368,
-    "dailyMinutesDown": {
-      "2025-02-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "기존 해피차저 모바일웹",
@@ -208,7 +204,7 @@
     "timeMonth": 1454,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-02-10": 12,
+      "2025-02-10": 6,
       "2025-02-08": 17
     }
   },
@@ -229,7 +225,7 @@
     "timeMonth": 1454,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2025-02-10": 12,
+      "2025-02-10": 6,
       "2025-02-08": 17
     }
   },
@@ -239,11 +235,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/211.253.17.45.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "0.40%",
-    "uptimeDay": "0.40%",
-    "uptimeWeek": "0.40%",
-    "uptimeMonth": "0.40%",
-    "uptimeYear": "0.40%",
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
