@@ -9,31 +9,31 @@ assignees:
   - Hyobum Moon
 
 sites:
-  - name: 해피차저 웹사이트
+  - name: WEB
     url: https://www.happecharger.com
-  - name: 해피차저 앱
+  - name: APP
     url: https://app2.happecharger.com
-  - name: 해피차저 CMS
+  - name: CMS
     url: https://cms.happecharger.com
-  - name: EVC (충전관리시스템)
+  - name: EVC
     url: http://adm.kevcs.com
-  - name: ACC (정산관리시스템)
+  - name: ACC
     url: https://acc.happecharger.com/
-  - name: ADM (구.충전관리시스템)
+  - name: ADM
     url: http://adm.happecharger.com/
-  - name: ASSEMBLE (메시지관리시스템)
+  - name: ASSEMBLE
     url: http://noti.kevcs.co.kr:7200/
-  - name: ESOL (API시스템)
+  - name: ESOL
     url: https://api2.happecharger.com/appMain.do
-  - name: 비회원QR
+  - name: QR
     check: "tcp-ping"
     url: 211.253.17.41
     port: 28088
-  - name: 기존 해피차저 모바일웹
+  - name: MOBILE
     url: https://m.happecharger.com/
-  - name: 기존 해피차저 웹사이트
+  - name: CSWEB
     url: https://cs.happecharger.com
-  - name: 개발 (Jenkins)
+  - name: JENKINS
     check: "tcp-ping"
     url: 211.253.17.45
     port: 8085
