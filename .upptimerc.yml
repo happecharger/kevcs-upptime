@@ -32,8 +32,8 @@ status-website:
   apiBaseUrl: https://api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   robotsText: "User-agent: * \n Disallow: /"
-  name: Upptime
-  introTitle: "Web Status"
+  name: 한국전기차충전서비스
+  introTitle: "해피차저"
   introMessage: 서버 상태 확인
   navbar:
     - title: Status
