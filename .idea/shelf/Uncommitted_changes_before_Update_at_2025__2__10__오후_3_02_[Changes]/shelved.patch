@@ -1,0 +1,68 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"662c7f11-ec35-4811-81ed-8f367484cfdb\" name=\"Changes\" comment=\"- html 경로 수정\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 5\n}</component>\n  <component name=\"ProjectId\" id=\"2spVRYwtTf72XF0RddJdQ60QZ8N\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"WebServerToolWindowPanel.toolwindow.highlight.mappings\": \"true\",\n    \"WebServerToolWindowPanel.toolwindow.highlight.symlinks\": \"true\",\n    \"WebServerToolWindowPanel.toolwindow.show.date\": \"false\",\n    \"WebServerToolWindowPanel.toolwindow.show.permissions\": \"false\",\n    \"WebServerToolWindowPanel.toolwindow.show.size\": \"false\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.120\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"662c7f11-ec35-4811-81ed-8f367484cfdb\" name=\"Changes\" comment=\"\" />\n      <created>1739152495717</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1739152495717</updated>\n      <workItem from=\"1739152496785\" duration=\"2437000\" />\n      <workItem from=\"1739166014508\" duration=\"526000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"- 누락 파일 추가\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739152670618</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739152670619</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"- 누락 파일 추가\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739152772121</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739152772121</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"- html 경로 수정\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739153571755</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739153571755</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"- html 경로 수정\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739153880764</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739153880764</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"- html 경로 수정\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739154229531</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739154229531</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"- html 경로 수정\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739154337966</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739154337966</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"- 누락 파일 추가\" />\n    <MESSAGE value=\"- html 경로 수정\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"- html 경로 수정\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8bc656b0003f0b51d4166e901f8b03e930710362)
++++ b/.idea/workspace.xml	(date 1739167335993)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="662c7f11-ec35-4811-81ed-8f367484cfdb" name="Changes" comment="- html 경로 수정" />
++    <list default="true" id="662c7f11-ec35-4811-81ed-8f367484cfdb" name="Changes" comment="- 설정이 변경된 이후 module 재 수신시 기존 파일들이 날라가는 이슈가 있어 static 파일들 다시 추가 시킴" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -17,7 +17,6 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 5
+@@ -36,6 +35,7 @@
+     "WebServerToolWindowPanel.toolwindow.show.date": "false",
+     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+     "WebServerToolWindowPanel.toolwindow.show.size": "false",
++    "git-widget-placeholder": "gh-pages",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+@@ -66,6 +66,7 @@
+       <updated>1739152495717</updated>
+       <workItem from="1739152496785" duration="2437000" />
+       <workItem from="1739166014508" duration="526000" />
++      <workItem from="1739166558526" duration="776000" />
+     </task>
+     <task id="LOCAL-00001" summary="- 누락 파일 추가">
+       <option name="closed" value="true" />
+@@ -115,7 +116,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1739154337966</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="- 설정이 변경된 이후 module 재 수신시 기존 파일들이 날라가는 이슈가 있어 static 파일들 다시 추가 시킴">
++      <option name="closed" value="true" />
++      <created>1739166682071</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1739166682071</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -124,6 +133,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="- 누락 파일 추가" />
+     <MESSAGE value="- html 경로 수정" />
+-    <option name="LAST_COMMIT_MESSAGE" value="- html 경로 수정" />
++    <MESSAGE value="- 설정이 변경된 이후 module 재 수신시 기존 파일들이 날라가는 이슈가 있어 static 파일들 다시 추가 시킴" />
++    <option name="LAST_COMMIT_MESSAGE" value="- 설정이 변경된 이후 module 재 수신시 기존 파일들이 날라가는 이슈가 있어 static 파일들 다시 추가 시킴" />
+   </component>
+ </project>
+\ No newline at end of file
