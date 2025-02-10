@@ -60,7 +60,7 @@ i18n:
   liveStatus: 세부 상태
   overallUptime: "전체가동시간: $UPTIME"
   overallUptimeTitle: 전체가동시간
-  averageResponseTime: "Average response time: $TIMEms"
+  averageResponseTime: "평균응답시간: $TIMEms"
   averageResponseTimeTitle: 평균응답시간
   sevelDayResponseTime: 7일 응답시간
   responseTimeMs: 응답시간(ms)
