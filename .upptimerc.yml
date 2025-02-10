@@ -17,11 +17,10 @@ sites:
     url: https://cms.happecharger.com
   - name: evc
     url: http://adm.kevcs.com
-    port: 28088
   - name: acc
     url: https://acc.happecharger.com/
   - name: legacy mobile
-    url: https://m.happecharger.com/mobile/main.do
+    url: https://m.happecharger.com/
   - name: legacy website
     url: https://cs.happecharger.com
 
@@ -30,7 +29,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.kevcs.com
   # baseUrl: /upptime
+  apiBaseUrl: https://api.github.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  robotsText: "User-agent: * \n Disallow: /"
   name: Upptime
   introTitle: "Web Status"
   introMessage: 서버 상태 확인
