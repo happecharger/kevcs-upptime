@@ -9,20 +9,38 @@ assignees:
   - Hyobum Moon
 
 sites:
-  - name: website
+  - name: ActiveMQ
+    url: http://10.20.59.4/
+    headers:
+      - "Authorization: Basic YWRtaW46YWRtaW4="
+    port: 8161
+  - name: 해피차저 웹사이트
     url: https://www.happecharger.com
-  - name: application
+  - name: 해피차저 앱
     url: https://app2.happecharger.com
-  - name: cms
+  - name: 해피차저 CMS
     url: https://cms.happecharger.com
-  - name: evc
+  - name: EVC (충전관리시스템)
     url: http://adm.kevcs.com
-  - name: acc
+  - name: ACC (정산관리시스템)
     url: https://acc.happecharger.com/
-  - name: legacy mobile
+  - name: ADM (구.충전관리시스템)
+    url: http://adm.happecharger.com/
+  - name: ASSEMBLE (메시지관리시스템)
+    url: http://noti.kevcs.co.kr/
+    port: 7200
+  - name: ESOL (API시스템)
+    url: https://api2.happecharger.com/
+  - name: 비회원QR
+    url: http://211.253.17.41
+    port: 28088
+  - name: 기존 해피차저 모바일웹
     url: https://m.happecharger.com/
-  - name: legacy website
+  - name: 기존 해피차저 웹사이트
     url: https://cs.happecharger.com
+  - name: 개발 (Jenkins)
+    url : http://211.253.17.45/
+    port: 8085
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
