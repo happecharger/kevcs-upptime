@@ -28,7 +28,7 @@ sites:
   - name: ASSEMBLE (메시지관리시스템)
     url: http://noti.kevcs.co.kr:7200/
   - name: ESOL (API시스템)
-    url: https://api2.happecharger.com/
+    url: https://api2.happecharger.com/appMain.do
   - name: 비회원QR
     url: http://211.253.17.41:28088/
   - name: 기존 해피차저 모바일웹
