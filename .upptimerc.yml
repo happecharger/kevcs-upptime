@@ -74,7 +74,7 @@ i18n:
   incidentCommentSummary: Posted at $DATE by $AUTHOR
   incidentBack: ← 전체이슈로 돌아가기
   pastIncidents: 지난 이슈
-  pastIncidentsResolved: 해결 : $POSTS 게시물/$MINUTES 분
+  pastIncidentsResolved: 해결이슈 ($POSTS 게시물/$MINUTES 분)
   liveStatus: 활성 상태
   overallUptime: "전체가동시간: $UPTIME"
   overallUptimeTitle: 전체가동시간
