@@ -33,10 +33,6 @@ sites:
     url: https://m.happecharger.com/
   - name: CSWEB
     url: https://cs.happecharger.com
-  - name: JENKINS
-    check: "tcp-ping"
-    url: 211.253.17.45
-    port: 8085
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
