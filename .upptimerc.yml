@@ -21,6 +21,12 @@ sites:
     url: https://acc.happecharger.com/
   - name: ADM
     url: http://adm.happecharger.com/
+  - name: XFR
+    url: https://api.happecharger.com/
+  - name: EMSP
+    check: "tcp-ping"
+    url: 211.253.17.41
+    port: 443
   - name: ASSEMBLE
     url: http://noti.kevcs.co.kr:7200/
   - name: ESOL
