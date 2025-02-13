@@ -76,19 +76,19 @@
     "url": "https://acc.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/acc.happecharger.com.ico",
     "slug": "acc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1196,
-    "timeDay": 4069,
-    "timeWeek": 1196,
-    "timeMonth": 1196,
-    "timeYear": 1196,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1176,
+    "timeDay": 2947,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {
-      "2025-02-13": 0
+      "2025-02-13": 12
     }
   },
   {
