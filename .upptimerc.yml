@@ -79,12 +79,8 @@ i18n:
   uptimeWeek: "7일 가동시간"
   uptimeMonth: "30일 가동시간"
   uptimeYear: "1년 가동시간"
-  liveStatus: "활성상태"
-  liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 정상작동"
-  degradedPerformance: "🟨 성능저하"
-  completeOutage: "🟥 Complete outage"
-  partialOutage: "🟧 Partial outage"
+  #liveStatus: "활성상태"
+  
   
   # status 번역
   activeIncidents: 활성 이슈
