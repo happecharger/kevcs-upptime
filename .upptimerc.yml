@@ -64,11 +64,11 @@ i18n:
   history: "이력"
   responseTime: "응답시간"
   uptime: "가동"
-  up: "🟩 정상"
-  degraded: "🟨 성능저하"
-  down: "🟥 다운"
+  #up: "🟩 정상"
+  #degraded: "🟨 성능저하"
+  #down: "🟥 다운"
   responseTimeGraphAlt: "응답시간 그래프"
-  ms: "ms"
+  #ms: "ms"
   responseTime: "응답시간"
   responseTimeDay: "24시간 응답시간"
   responseTimeWeek: "7일 응답시간"
@@ -109,11 +109,11 @@ i18n:
   averageResponseTimeTitle: 평균응답시간
   sevelDayResponseTime: 7일 응답시간
   responseTimeMs: 응답시간(ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  up: "🟩 정상"
+  down: "🟥 다운"
+  degraded: "🟨 성능저하"
   ms: ms
-  loading: Loading
+  loading: 로딩중
   navGitHub: GitHub
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: 한도 초과
