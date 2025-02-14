@@ -58,31 +58,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  # README.md 번역
-  url: "주소"
-  status: "상태"
-  history: "이력"
-  responseTime: "응답시간"
-  uptime: "가동"
-  #up: "🟩 정상"
-  #degraded: "🟨 성능저하"
-  #down: "🟥 다운"
-  responseTimeGraphAlt: "응답시간 그래프"
-  #ms: "ms"
-  responseTime: "응답시간"
-  responseTimeDay: "24시간 응답시간"
-  responseTimeWeek: "7일 응답시간"
-  responseTimeMonth: "30일 응답시간"
-  responseTimeYear: "1년 응답시간"
-  uptime: "전체 가동시간"
-  uptimeDay: "24시간 가동시간"
-  uptimeWeek: "7일 가동시간"
-  uptimeMonth: "30일 가동시간"
-  uptimeYear: "1년 가동시간"
-  #liveStatus: "활성상태"
-  
-  
-  # status 번역
   activeIncidents: 활성 이슈
   allSystemsOperational: 전체 시스템이 작동 중 입니다.
   incidentReport: "Incident #$NUMBER report →"
