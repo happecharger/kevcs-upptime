@@ -31,7 +31,7 @@ sites:
     url: http://noti.kevcs.co.kr:7200/
   - name: ESOL
     url: https://api2.happecharger.com/appMain.do
-  - name: QR
+  - name: QR-PAY
     check: "tcp-ping"
     url: 211.253.17.41
     port: 28088
@@ -39,6 +39,10 @@ sites:
     url: https://m.happecharger.com/
   - name: CSWEB
     url: https://cs.happecharger.com
+  - name: AOS-DOWN
+    url: https://bit.ly/4hckYr3
+  - name: IOS-DOWN
+    url: https://apple.co/3DZ5kAn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
