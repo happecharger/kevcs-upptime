@@ -115,19 +115,19 @@
     "url": "https://api.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.happecharger.com.ico",
     "slug": "xfr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 950,
-    "timeDay": 995,
-    "timeWeek": 1024,
-    "timeMonth": 950,
-    "timeYear": 950,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 967,
+    "timeDay": 1083,
+    "timeWeek": 1050,
+    "timeMonth": 967,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-02-25": 0
+      "2025-02-25": 21
     }
   },
   {
