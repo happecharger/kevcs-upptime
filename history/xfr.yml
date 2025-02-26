@@ -1,7 +1,7 @@
 url: https://api.happecharger.com/
-status: down
-code: 404
-responseTime: 1027
-lastUpdated: 2025-02-26T01:40:11.700Z
+status: up
+code: 200
+responseTime: 961
+lastUpdated: 2025-02-26T02:13:24.568Z
 startTime: 2025-02-11T06:08:18.856Z
 generator: Upptime <https://github.com/upptime/upptime>
