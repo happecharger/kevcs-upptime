@@ -31,6 +31,8 @@ sites:
     url: http://noti.kevcs.co.kr:7200/
   - name: ESOL
     url: https://api2.happecharger.com/appMain.do
+  - name: ESOL-DEV
+    url: https://tapi.happecharger.com/appMain.do
   - name: QR-PAY
     check: "tcp-ping"
     url: 211.253.17.41
