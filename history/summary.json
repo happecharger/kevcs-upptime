@@ -61,18 +61,20 @@
     "url": "http://adm.kevcs.com",
     "icon": "https://icons.duckduckgo.com/ip3/adm.kevcs.com.ico",
     "slug": "evc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 1127,
-    "timeWeek": 1155,
+    "time": 1121,
+    "timeDay": 1137,
+    "timeWeek": 1157,
     "timeMonth": 1150,
-    "timeYear": 1120,
-    "dailyMinutesDown": {}
+    "timeYear": 1121,
+    "dailyMinutesDown": {
+      "2025-03-14": 0
+    }
   },
   {
     "name": "ACC",
@@ -197,7 +199,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 731,
-    "timeDay": 731,
+    "timeDay": 627,
     "timeWeek": 731,
     "timeMonth": 731,
     "timeYear": 731,
