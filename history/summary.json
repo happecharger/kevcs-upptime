@@ -22,11 +22,11 @@
     "url": "https://app2.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/app2.happecharger.com.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.07%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.10%",
     "time": 1313,
     "timeDay": 1041,
@@ -34,6 +34,7 @@
     "timeMonth": 1309,
     "timeYear": 1313,
     "dailyMinutesDown": {
+      "2025-03-14": 0,
       "2025-02-25": 61,
       "2025-02-24": 349
     }
@@ -61,19 +62,19 @@
     "url": "http://adm.kevcs.com",
     "icon": "https://icons.duckduckgo.com/ip3/adm.kevcs.com.ico",
     "slug": "evc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1121,
-    "timeDay": 1137,
-    "timeWeek": 1157,
-    "timeMonth": 1150,
+    "timeDay": 1132,
+    "timeWeek": 1152,
+    "timeMonth": 1149,
     "timeYear": 1121,
     "dailyMinutesDown": {
-      "2025-03-14": 0
+      "2025-03-14": 16
     }
   },
   {
