@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app2.happecharger.com.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.54%",
     "time": 1276,
     "timeDay": 1215,
     "timeWeek": 1236,
     "timeMonth": 1248,
     "timeYear": 1276,
     "dailyMinutesDown": {
-      "2025-04-16": 14,
       "2025-03-14": 19,
       "2025-02-25": 61,
       "2025-02-24": 349
@@ -194,9 +193,9 @@
     "url": "https://tapi.happecharger.com/appMain.do",
     "icon": "https://icons.duckduckgo.com/ip3/tapi.happecharger.com.ico",
     "slug": "esol-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -205,7 +204,9 @@
     "timeWeek": 757,
     "timeMonth": 761,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-16": 0
+    }
   },
   {
     "name": "QR-PAY",
