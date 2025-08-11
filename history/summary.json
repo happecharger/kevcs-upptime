@@ -266,19 +266,19 @@
     "url": "https://bit.ly/4hckYr3",
     "icon": "https://icons.duckduckgo.com/ip3/bit.ly.ico",
     "slug": "aos-down",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 329,
-    "timeWeek": 329,
-    "timeMonth": 329,
-    "timeYear": 416,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 415,
+    "timeDay": 331,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 15
     }
   },
   {
@@ -286,19 +286,19 @@
     "url": "https://apple.co/3DZ5kAn",
     "icon": "https://icons.duckduckgo.com/ip3/apple.co.ico",
     "slug": "ios-down",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 351,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 380,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 381,
+    "timeDay": 357,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 15
     }
   },
   {
