@@ -45,6 +45,8 @@ sites:
     url: https://bit.ly/4hckYr3
   - name: IOS-DOWN
     url: https://apple.co/3DZ5kAn
+  - name: TEST APP
+    url: https://tapp.happecharger.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
