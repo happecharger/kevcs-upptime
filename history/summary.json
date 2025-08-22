@@ -159,18 +159,20 @@
     "url": "http://noti.kevcs.co.kr:7200/",
     "icon": "https://icons.duckduckgo.com/ip3/noti.kevcs.co.kr.ico",
     "slug": "assemble",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 934,
     "timeDay": 870,
     "timeWeek": 909,
     "timeMonth": 881,
     "timeYear": 934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 2
+    }
   },
   {
     "name": "ESOL",
@@ -195,10 +197,10 @@
     "url": "https://tapi.happecharger.com/appMain.do",
     "icon": "https://icons.duckduckgo.com/ip3/tapi.happecharger.com.ico",
     "slug": "esol-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 776,
@@ -206,7 +208,9 @@
     "timeWeek": 823,
     "timeMonth": 786,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 1
+    }
   },
   {
     "name": "QR-PAY",
@@ -308,18 +312,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tapp.happecharger.com.ico",
     "slug": "test-app",
     "status": "down",
-    "uptime": "84.16%",
+    "uptime": "83.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.48%",
-    "uptimeMonth": "84.16%",
-    "uptimeYear": "84.16%",
+    "uptimeWeek": "74.98%",
+    "uptimeMonth": "83.89%",
+    "uptimeYear": "83.89%",
     "time": 1094,
     "timeDay": 849,
     "timeWeek": 1094,
     "timeMonth": 1094,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2025-08-22": 18,
+      "2025-08-22": 68,
       "2025-08-21": 1440,
       "2025-08-20": 1014
     }
