@@ -46,10 +46,10 @@
     "url": "https://cms.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/cms.happecharger.com.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
@@ -57,7 +57,9 @@
     "timeWeek": 1000,
     "timeMonth": 1003,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 2
+    }
   },
   {
     "name": "EVC",
@@ -159,19 +161,19 @@
     "url": "http://noti.kevcs.co.kr:7200/",
     "icon": "https://icons.duckduckgo.com/ip3/noti.kevcs.co.kr.ico",
     "slug": "assemble",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 870,
-    "timeWeek": 909,
-    "timeMonth": 881,
-    "timeYear": 934,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 1003,
+    "timeDay": 4399,
+    "timeWeek": 1786,
+    "timeMonth": 1272,
+    "timeYear": 1003,
     "dailyMinutesDown": {
-      "2025-08-22": 2
+      "2025-08-22": 40
     }
   },
   {
@@ -197,19 +199,19 @@
     "url": "https://tapi.happecharger.com/appMain.do",
     "icon": "https://icons.duckduckgo.com/ip3/tapi.happecharger.com.ico",
     "slug": "esol-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 763,
-    "timeWeek": 823,
-    "timeMonth": 786,
-    "timeYear": 776,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 789,
+    "timeDay": 1180,
+    "timeWeek": 920,
+    "timeMonth": 831,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2025-08-22": 1
+      "2025-08-22": 39
     }
   },
   {
@@ -312,18 +314,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tapp.happecharger.com.ico",
     "slug": "test-app",
     "status": "down",
-    "uptime": "83.89%",
+    "uptime": "83.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.98%",
-    "uptimeMonth": "83.89%",
-    "uptimeYear": "83.89%",
+    "uptimeWeek": "74.61%",
+    "uptimeMonth": "83.69%",
+    "uptimeYear": "83.69%",
     "time": 1094,
     "timeDay": 849,
     "timeWeek": 1094,
     "timeMonth": 1094,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2025-08-22": 68,
+      "2025-08-22": 106,
       "2025-08-21": 1440,
       "2025-08-20": 1014
     }
