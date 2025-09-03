@@ -4,10 +4,10 @@
     "url": "https://www.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.happecharger.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1463,
@@ -15,7 +15,9 @@
     "timeWeek": 1618,
     "timeMonth": 1646,
     "timeYear": 1463,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-03": 2
+    }
   },
   {
     "name": "APP",
@@ -237,18 +239,20 @@
     "url": "https://m.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/m.happecharger.com.ico",
     "slug": "mobile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1369,
     "timeDay": 1327,
-    "timeWeek": 1475,
+    "timeWeek": 1489,
     "timeMonth": 1441,
     "timeYear": 1369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-03": 0
+    }
   },
   {
     "name": "CSWEB",
@@ -314,11 +318,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tapp.happecharger.com.ico",
     "slug": "test-app",
     "status": "up",
-    "uptime": "65.14%",
+    "uptime": "66.38%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.22%",
-    "uptimeMonth": "65.14%",
-    "uptimeYear": "65.14%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "66.38%",
+    "uptimeYear": "66.38%",
     "time": 1050,
     "timeDay": 980,
     "timeWeek": 1145,
