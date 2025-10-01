@@ -77,7 +77,7 @@
     "time": 1096,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 868,
+    "timeMonth": 822,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2025-03-14": 16
@@ -240,9 +240,9 @@
     "url": "https://cs.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/cs.happecharger.com.ico",
     "slug": "csweb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,6 +251,8 @@
     "timeWeek": 0,
     "timeMonth": 2157,
     "timeYear": 2147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   }
 ]
