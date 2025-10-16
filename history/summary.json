@@ -68,11 +68,11 @@
     "url": "http://adm.kevcs.com:28088/",
     "icon": "https://icons.duckduckgo.com/ip3/adm.kevcs.com.ico",
     "slug": "evc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1065,
     "timeDay": 552,
@@ -80,6 +80,7 @@
     "timeMonth": 704,
     "timeYear": 1065,
     "dailyMinutesDown": {
+      "2025-10-16": 2,
       "2025-03-14": 16
     }
   },
@@ -240,9 +241,9 @@
     "url": "https://cs.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/cs.happecharger.com.ico",
     "slug": "csweb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,6 +252,8 @@
     "timeWeek": 2331,
     "timeMonth": 2269,
     "timeYear": 2170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-16": 0
+    }
   }
 ]
