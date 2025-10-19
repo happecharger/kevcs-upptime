@@ -186,19 +186,19 @@
     "url": "https://api2.happecharger.com/appMain.do",
     "icon": "https://icons.duckduckgo.com/ip3/api2.happecharger.com.ico",
     "slug": "esol",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 726,
-    "timeWeek": 778,
-    "timeMonth": 913,
-    "timeYear": 783,
+    "time": 782,
+    "timeDay": 690,
+    "timeWeek": 763,
+    "timeMonth": 902,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2025-10-19": 1
+      "2025-10-19": 7
     }
   },
   {
