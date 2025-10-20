@@ -186,10 +186,10 @@
     "url": "https://api2.happecharger.com/appMain.do",
     "icon": "https://icons.duckduckgo.com/ip3/api2.happecharger.com.ico",
     "slug": "esol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 783,
@@ -197,17 +197,19 @@
     "timeWeek": 778,
     "timeMonth": 906,
     "timeYear": 783,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 1
+    }
   },
   {
     "name": "ESOL-DEV",
     "url": "https://tapi.happecharger.com/appMain.do",
     "icon": "https://icons.duckduckgo.com/ip3/tapi.happecharger.com.ico",
     "slug": "esol-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 811,
@@ -216,6 +218,7 @@
     "timeMonth": 1027,
     "timeYear": 811,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-08-22": 39
     }
   },
