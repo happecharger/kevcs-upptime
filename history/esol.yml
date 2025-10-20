@@ -1,7 +1,7 @@
 url: https://api2.happecharger.com/appMain.do
-status: up
-code: 200
-responseTime: 915
-lastUpdated: 2025-10-19T23:02:01.179Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-10-20T14:27:35.764Z
 startTime: 2025-02-10T13:58:45.456Z
 generator: Upptime <https://github.com/upptime/upptime>
