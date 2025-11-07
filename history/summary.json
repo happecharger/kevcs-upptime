@@ -90,36 +90,40 @@
     "url": "https://acc.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/acc.happecharger.com.ico",
     "slug": "acc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 1013,
-    "timeWeek": 972,
-    "timeMonth": 993,
-    "timeYear": 985,
-    "dailyMinutesDown": {}
+    "time": 986,
+    "timeDay": 1098,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 986,
+    "dailyMinutesDown": {
+      "2025-11-07": 0
+    }
   },
   {
     "name": "ADM",
     "url": "http://adm.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/adm.happecharger.com.ico",
     "slug": "adm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 762,
-    "timeWeek": 551,
-    "timeMonth": 636,
+    "timeDay": 720,
+    "timeWeek": 567,
+    "timeMonth": 638,
     "timeYear": 752,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-07": 0
+    }
   },
   {
     "name": "XFR",
