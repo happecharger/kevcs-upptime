@@ -90,19 +90,19 @@
     "url": "https://acc.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/acc.happecharger.com.ico",
     "slug": "acc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 1098,
-    "timeWeek": 999,
-    "timeMonth": 999,
-    "timeYear": 986,
+    "time": 987,
+    "timeDay": 1136,
+    "timeWeek": 1023,
+    "timeMonth": 1005,
+    "timeYear": 987,
     "dailyMinutesDown": {
-      "2025-11-07": 0
+      "2025-11-07": 6
     }
   },
   {
@@ -110,19 +110,19 @@
     "url": "http://adm.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/adm.happecharger.com.ico",
     "slug": "adm",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 720,
-    "timeWeek": 567,
-    "timeMonth": 638,
-    "timeYear": 752,
+    "time": 751,
+    "timeDay": 704,
+    "timeWeek": 579,
+    "timeMonth": 639,
+    "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-11-07": 0
+      "2025-11-07": 6
     }
   },
   {
