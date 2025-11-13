@@ -4,10 +4,10 @@
     "url": "https://www.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.happecharger.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1607,
@@ -16,6 +16,7 @@
     "timeMonth": 1580,
     "timeYear": 1607,
     "dailyMinutesDown": {
+      "2025-11-13": 1,
       "2025-09-03": 207
     }
   },
