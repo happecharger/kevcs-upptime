@@ -4,19 +4,19 @@
     "url": "https://www.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.happecharger.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 1669,
     "timeDay": 1636,
     "timeWeek": 1644,
-    "timeMonth": 1872,
+    "timeMonth": 1632,
     "timeYear": 1669,
     "dailyMinutesDown": {
-      "2026-01-21": 39,
+      "2026-01-21": 40,
       "2025-12-21": 15,
       "2025-11-13": 15,
       "2025-09-03": 207
@@ -36,7 +36,7 @@
     "time": 1280,
     "timeDay": 1243,
     "timeWeek": 1316,
-    "timeMonth": 1251,
+    "timeMonth": 1256,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2026-01-21": 39,
@@ -208,7 +208,7 @@
     "time": 828,
     "timeDay": 741,
     "timeWeek": 743,
-    "timeMonth": 745,
+    "timeMonth": 743,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2026-01-21": 35
