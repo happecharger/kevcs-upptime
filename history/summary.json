@@ -4,11 +4,11 @@
     "url": "https://www.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.happecharger.com.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 1669,
     "timeDay": 1729,
@@ -16,6 +16,7 @@
     "timeMonth": 1882,
     "timeYear": 1669,
     "dailyMinutesDown": {
+      "2026-01-21": 5,
       "2025-12-21": 15,
       "2025-11-13": 15,
       "2025-09-03": 207
@@ -26,11 +27,11 @@
     "url": "https://app2.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/app2.happecharger.com.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.90%",
     "time": 1281,
     "timeDay": 1462,
@@ -38,6 +39,7 @@
     "timeMonth": 1259,
     "timeYear": 1281,
     "dailyMinutesDown": {
+      "2026-01-21": 4,
       "2025-08-21": 45,
       "2025-04-16": 25,
       "2025-03-14": 19,
@@ -50,11 +52,11 @@
     "url": "https://cms.happecharger.com",
     "icon": "https://icons.duckduckgo.com/ip3/cms.happecharger.com.ico",
     "slug": "cms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1010,
     "timeDay": 990,
@@ -62,6 +64,7 @@
     "timeMonth": 965,
     "timeYear": 1010,
     "dailyMinutesDown": {
+      "2026-01-21": 4,
       "2026-01-09": 32,
       "2025-10-16": 22,
       "2025-08-22": 37
@@ -114,10 +117,10 @@
     "url": "http://adm.happecharger.com/",
     "icon": "https://icons.duckduckgo.com/ip3/adm.happecharger.com.ico",
     "slug": "adm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 723,
@@ -126,6 +129,7 @@
     "timeMonth": 593,
     "timeYear": 723,
     "dailyMinutesDown": {
+      "2026-01-21": 2,
       "2026-01-05": 16
     }
   },
@@ -195,10 +199,10 @@
     "url": "https://api2.happecharger.com/appMain.do",
     "icon": "https://icons.duckduckgo.com/ip3/api2.happecharger.com.ico",
     "slug": "esol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 829,
@@ -206,7 +210,9 @@
     "timeWeek": 757,
     "timeMonth": 748,
     "timeYear": 829,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-21": 1
+    }
   },
   {
     "name": "ESOL-DEV",
