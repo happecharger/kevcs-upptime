@@ -77,9 +77,9 @@
     "slug": "evc",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 853,
     "timeDay": 626,
@@ -87,8 +87,6 @@
     "timeMonth": 583,
     "timeYear": 786,
     "dailyMinutesDown": {
-      "2026-03-27": 0,
-      "2026-03-26": 10,
       "2026-02-24": 22,
       "2025-12-08": 25,
       "2025-10-16": 32
